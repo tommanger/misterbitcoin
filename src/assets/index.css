@@ -1,0 +1,19 @@
+li{
+    list-style-type: none;
+
+}
+.img-contact{
+    width: 50px;
+    border: 3px solid black;
+    border-radius: 50%;
+}
+.contact-prev{
+    background-color: gainsboro;
+    border-radius: 26px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 230px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
